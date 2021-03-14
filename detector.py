@@ -18,8 +18,8 @@ def total_function():
 
 	alarm_file = "alarm.WAV"
 
-	EAR_THRESHOLD = 0.26
-	EYE_AR_CONSEC_FRAMES = 26
+	EAR_THRESHOLD = 0.27
+	EYE_AR_CONSEC_FRAMES = 24
 
 	COUNTER = 0
 	ALARM_PLAYING = False
