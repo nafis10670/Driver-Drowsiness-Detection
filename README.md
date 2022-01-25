@@ -16,7 +16,7 @@
 
 <h2>Features</h2>
 <ul>
-	<li>A basic UI to run the applicatiob</li>
+	<li>A basic UI to run the application</li>
 	<li>Real-time facial detection</li>
 	<li>Facial landmark detection including both the eyes, the mouth, the jawline, the nose and the eyebrows</li>
 	<li>Displaying real-time Eye Aspect Ratio (EAR) on screen and using it to detect if a driver is drowsy or not</li>
@@ -33,4 +33,4 @@
 	</ul>
 
 <h2>How to run the application</h2>
-	Install the required dependencies (dlib, opencv, pyqt5, playsound).Then run "python driverdrowsyui.py" from the command line.
+	Install the required dependencies (dlib, opencv, pyqt5, playsound). Then run "python driverdrowsyui.py" from the command line.
